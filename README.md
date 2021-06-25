@@ -4,6 +4,7 @@ Programming is a repository.
 ### Used Languages
 - C
 - C++
+- Python
 
 ## Contributors ✨
 
